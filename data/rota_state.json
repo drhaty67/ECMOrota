@@ -1,0 +1,53 @@
+{
+  "period": {
+    "name": "Rota Aug 2026 \u2013 Feb 2027",
+    "start": "2026-08-24",
+    "end": "2027-02-21",
+    "status": "Draft"
+  },
+  "consultants": [
+    {
+      "id": "3b919b7a53",
+      "name": "Consultant A",
+      "email": "",
+      "active": true
+    },
+    {
+      "id": "0aaaeb272b",
+      "name": "Consultant B",
+      "email": "",
+      "active": true
+    }
+  ],
+  "absences": [],
+  "targets": {
+    "3b919b7a53": {
+      "t": 0,
+      "weekend": 0,
+      "c": 0
+    },
+    "0aaaeb272b": {
+      "t": 0,
+      "weekend": 0,
+      "c": 0
+    }
+  },
+  "preferences": [],
+  "special": {
+    "3b919b7a53": {
+      "weekend_mode": "Standard",
+      "partner_ids": [],
+      "notes": ""
+    },
+    "0aaaeb272b": {
+      "weekend_mode": "Standard",
+      "partner_ids": [],
+      "notes": ""
+    }
+  },
+  "generation": {
+    "last_run": null,
+    "status": "Not generated",
+    "assignments": []
+  }
+}
